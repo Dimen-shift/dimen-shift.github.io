@@ -6,6 +6,18 @@ h2 {
     text-align: center;
 }
 
+#title {
+    border: 1px red solid;
+}
+
+#main-site-body {
+    border: 1px red solid;
+}
+
+#main-site-footer {
+    border: 1px red solid;
+}
+
 .fountain {
     border: 1px red solid;
 }
